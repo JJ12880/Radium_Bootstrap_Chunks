@@ -4,7 +4,8 @@
 
 #### Usage
 
-Run the Radium_Bootstrap_Utility.exe found under releases. Follow the onscreen prompts. 
+* Shutdown Radium Core wallet if allready running. 
+* Run the Radium_Bootstrap_Utility.exe found under releases. Follow the onscreen prompts. 
 
 #### What it does
 
